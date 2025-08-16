@@ -1,8 +1,3 @@
-ecommerce-sql-analysis/
-│
-├── advancedqueries.sql    # Advanced SQL queries
-├── basicqueries.sql       # Basic SQL queries
-├── README.md              # Project documentation
 
 
 # E-Commerce Data Analytics Project
